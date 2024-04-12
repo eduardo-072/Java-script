@@ -1,0 +1,47 @@
+body
+{
+    background-color: #50A7D9;
+}
+
+h1
+{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 70px;
+}
+
+.botão-avançar
+{
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px 20px;
+    font-family: 'Times New Roman';
+    font-family: "Fira Code", monospace;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.botão-avançar:hover
+{
+    box-shadow: 0 0 40px #50D2D9 ;
+    background-color: #50D2D9;
+    color: black;
+}
+
+.botão-voltar
+{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+background-color: transparent;
+}
+
+.botão-avançar:hover
+{
+    box-shadow: 0 0 40px #50D2D9 ;
+    background-color: #50D2D9;
+    color: black;
+}
