@@ -77,3 +77,23 @@ console.log("Maiscúlo" + texto.toUpperCase());
 console.log("Minúsculo" + texto.toLowerCase());
 console.log("Posição de Caracter" + texto.charAT(2));
 
+
+
+// let resposta = confirm("Deseja aceitar as alterações?");
+// console.log(resposta);
+
+// let idade = prompt("Qual sua idade arromado?");
+
+// if (idade >= 18)
+// {
+//     console.log("Você é di Maior mn")
+// }
+// else
+// {
+//     console.log("Você ainda é cabaço meu mn");
+// }
+ let x = prompt("informe o valor de x");
+ let y = prompt("informe o valor de y");
+
+ console.log(x + " + " + y + " = " + (parseInt(x) + parseInt(y)));
+
